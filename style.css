@@ -1,15 +1,6 @@
-#image {
+main img{
     display: block;
-      
+    margin: auto;
     max-width: 100%;
-    
-    margin-left: auto;
-    
-    margin-right: auto;
-
-    text-align: center;
-    
-}
-.thumbnail{
-    align-items: center;
+    height:auto;
 }
